@@ -110,9 +110,6 @@ public class FoodDetail extends AppCompatActivity {
             @Override
             public void onCancelled(DatabaseError databaseError) {
 
-                //check
-                //git
-                //
 
 
 

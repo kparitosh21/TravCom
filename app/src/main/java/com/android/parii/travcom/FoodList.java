@@ -32,7 +32,6 @@ public class FoodList extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_food_list);
 
-        //Firebase Configuration
         database = FirebaseDatabase.getInstance();
         foodList = database.getReference("Foods");
 
