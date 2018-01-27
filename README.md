@@ -18,6 +18,7 @@ Solution:
  * **Text Recognition** For sending and document or maybe your address in a Text Written Format
  * **Face detection** and recommending **songs** according to your face mood.
  * **Food Calories** Recognition for fitness freaks
+ * street view of maps
  * **Hospitality i.e Alerting** and giving a notification to nearby Hospitals at any time (24*7) whenever there's an emergency.(for women safety in a new place).
  * Real time photo uploading option for any user,in which the user will upload any pics which he finds amazing and think others shouldn't miss if they visit the "same place" with creative Captions.
  * Movie theatres nearby and best movie screening on them.
