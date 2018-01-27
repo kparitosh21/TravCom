@@ -1,3 +1,6 @@
+ > Due to Merge and Push Errors ,Hve Been Informed the organizers and Mentors , The updated Version of App is shifted in Another Repo : https://github.com/EhteshamIzhar/Hack36TravCom
+
+
 # TravCom
 A Travel Companion App made in Hack36 Hackathon consisting of a Smart Interactive AI ChatBot ,VR and BlockChain Concept.
 
