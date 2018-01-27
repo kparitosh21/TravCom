@@ -46,9 +46,6 @@ public class KenBurnsView extends ImageView {
     /** Controls whether the the animation is running. */
     private boolean mPaused;
 
-    /** Indicates whether the parent constructor was already called.
-     * This is needed to distinguish if the image is being set before
-     * or after the super class constructor returns. */
     private boolean mInitialized;
 
 
@@ -267,10 +264,6 @@ of the current rect into the entire view. */
     }
 
 
-    /**
-     * Updates the drawable bounds rect. This must be called every time the drawable
-     * associated to this view changes.
-     */
     private void updateDrawableBounds() {
         if (mDrawableRect == null) {
             mDrawableRect = new RectF();
