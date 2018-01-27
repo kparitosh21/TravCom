@@ -9,25 +9,24 @@ import java.util.Random;
 
 public class RandomTransitionGenerator implements com.android.parii.travcom.TransitionGenerator {
 
-    /** Default value for the transition duration in milliseconds. */
+
     public static final int DEFAULT_TRANSITION_DURATION = 10000;
 
-    /** Minimum rect dimension factor, according to the maximum one. */
+
     private static final float MIN_RECT_FACTOR = 0.75f;
 
-    /** Random object used to generate arbitrary rects. */
     private final Random mRandom = new Random(System.currentTimeMillis());
 
-    /** The duration, in milliseconds, of each transition. */
+
     private long mTransitionDuration;
 
-    /** The {@link Interpolator} to be used to create transitions. */
+
     private Interpolator mTransitionInterpolator;
 
-    /** The last generated transition. */
+
     private Transition mLastGenTrans;
 
-    /** The bounds of the drawable when the last transition was generated. */
+
     private RectF mLastDrawableBounds;
 
 

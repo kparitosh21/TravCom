@@ -144,7 +144,7 @@ public class ttsJava extends Activity {
     // Read text from file
     public void ReadBtn(View v)
     {
-        //reading text from file
+        //reading
         try
         {
             FileInputStream fileIn=openFileInput("abbrev-deu.txt");
@@ -163,8 +163,7 @@ public class ttsJava extends Activity {
             Intent i = new Intent(ttsJava.this,Listen.class);
             i.putExtra("okay",s);
             startActivity(i);
-         //   InputRead.close();
-          //  textmsg.setText(s);
+
 
 
         } catch (Exception e) {
