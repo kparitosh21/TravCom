@@ -1,4 +1,4 @@
- > Due to Merge and Push Errors ,Hve Been Informed the organizers and Mentors , The updated Version of App is shifted in Another Repo : https://github.com/EhteshamIzhar/Hack36TravCom
+ > Due to Merge and Push Errors ,Have Been Informed the organizers and Mentors , **The updated Version of App** is shifted in Another Repo : https://github.com/EhteshamIzhar/Hack36TravCom
 
 
 # TravCom
