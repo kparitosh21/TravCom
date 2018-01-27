@@ -11,7 +11,7 @@ every tourist or person deserves.
 
 Solution:
  * We will be creating an authorized Secure "Application" which will interact with the user and give them real time solution.
- * **ChatBot** , A smart one with which you can chat and get most of the useful informations.
+ * **AI ChatBot** , A smart one with which you can chat and get most of the useful informations.
  * Audio novel or **pdf reader**.
  * Filter views according to your convinience.
  * **Virtual Reality 360** For sending and document or maybe your address in a Text Written Format
