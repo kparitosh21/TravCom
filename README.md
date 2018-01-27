@@ -34,9 +34,9 @@ Solution:
 
 
 #### Special Features & Future Scopes :
- >  Giving a "scheduled plan" according to the Budget and and given number of days.
- >  Going cashless, and still being able to pay through wallets and Online payments.
- >  Our Bonus coins which will give discounts on stays in hotels and Resorts.
+ * Giving a "scheduled plan" according to the Budget and and given number of days.
+ * Going cashless, and still being able to pay through wallets and Online payments.
+ * Our Bonus coins which will give discounts on stays in hotels and Resorts.
 
 #### Market :
 The travel guide and Secure app industry has a high
