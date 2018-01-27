@@ -93,7 +93,7 @@ public class chatBot extends AppCompatActivity
                 {
 
                     final String inputText = userInput.getText().toString();
-                    conversation.setBackgroundResource(R.drawable.zmyreply);
+
                     conversation.append(
                             Html.fromHtml("<p><b>You:</b> " + inputText + "</p>")
                     );
@@ -146,7 +146,6 @@ public class chatBot extends AppCompatActivity
 
                                                         tts.speak(quote, TextToSpeech.QUEUE_ADD, null, "DEFAULT");
 
-                                                        conversation.setBackgroundResource(R.drawable.backbro);
                                                         conversation.append(
                                                                 Html.fromHtml("<p><b>Bot:</b> " +
                                                                         quote + "</p>")

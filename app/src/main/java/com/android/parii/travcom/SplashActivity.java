@@ -14,7 +14,6 @@ import android.widget.ImageView;
 
 public class SplashActivity extends Activity {
 
-    // Splash screen timer
     private static int SPLASH_TIME_OUT = 3500;
     private KenBurnsView mKenBurns;
     ImageView heart,feenix;
@@ -28,7 +27,7 @@ public class SplashActivity extends Activity {
         getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_HIDE_NAVIGATION);
 
         mKenBurns = (KenBurnsView) findViewById(R.id.ken_burns_images);
-        //mKenBurns.setImageResource(R.drawable.splash_background);
+
         mKenBurns.setImageResource(R.drawable.bg);
 
         heart = (ImageView) findViewById(R.id.imageView) ;
