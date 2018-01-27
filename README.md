@@ -14,7 +14,7 @@ Solution:
  * **AI ChatBot** , A smart one with which you can chat and get most of the useful informations.
  * Audio novel or **pdf reader**.
  * Filter views according to your convinience.
- * **Virtual Reality 360** For sending and document or maybe your address in a Text Written Format
+ * **Virtual Reality 360** integrated in App For sending or Viewing VR view of that place/room .
  * **Text Recognition** For sending and document or maybe your address in a Text Written Format
  * **Face detection** and recommending **songs** according to your face mood.
  * **Food Calories** Recognition for fitness freaks
@@ -27,10 +27,10 @@ Solution:
 [![](https://raw.githubusercontent.com/Lightning-Bug/ML-Starter-Pack/master/Decision%20Tree%20Classifier/Images/Screenshot%20from%202018-01-27%2007-48-00.png)](https://nodesource.com/products/nsolid)
 
 #### Latest Technologies We will be using
-  - AI Chatbot
-  - Virtual Reality 360 of any Travel place or rooms , intergrated in App.
-  - BlockChain Concept for more authorized and secure trips.
-  - Google Vision Api for Face and text detection.
+  - **AI** Chatbot
+  - **Virtual Reality** 360 of any Travel place or rooms , intergrated in App.
+  - **BlockChain** Concept for more authorized and secure trips.
+  - **Google Vision** Api for Face and text detection.
 
 
 #### Special Features & Future Scopes :
